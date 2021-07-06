@@ -18,5 +18,7 @@
   "homepage": "https://github.com/jalmo1/u-develop-it#readme",
   "devDependencies": {
     "jest": "^27.0.6"
-  }
+  },
+  "dependencies": {},
+  "keywords": []
 }
